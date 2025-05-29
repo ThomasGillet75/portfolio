@@ -1,0 +1,14 @@
+.arrow-button{
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    width: 48px;
+    height: 64px;
+    background-color: transparent;
+}
+
+.arrow-button:hover{
+    background-color: rgba(236, 236, 236, 0.15);
+    cursor: pointer;
+}

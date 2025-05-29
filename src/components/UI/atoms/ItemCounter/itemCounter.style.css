@@ -1,0 +1,22 @@
+
+.item-counter-container{
+    gap: 5px;
+}
+
+.item-counter{
+    width:15px;
+    height:15px;
+    border-radius:50%;
+    border:none;
+    cursor:pointer;
+    background-color: rgba(236, 236, 236, 0.15);;
+}
+
+.item-counter-actual{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    background-color: rgba(236, 236, 236, 0.41);
+}

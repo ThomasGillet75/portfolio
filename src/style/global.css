@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: var(--font-family);
+    background-color: #329480;
+    color: #333;
+    width: 100%;
+
+}
+
+#root {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #329480; /* même couleur que root */
+    overflow: hidden;
+}

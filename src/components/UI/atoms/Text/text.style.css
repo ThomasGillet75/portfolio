@@ -1,0 +1,12 @@
+.text{
+    font-size: clamp(2rem, 15vw, 13rem);
+
+    font-family: var(--font-family-title);
+    color: #333;
+    cursor: default;
+}
+
+.text-container{
+    margin: 0;
+    padding: 0;
+}
